@@ -34,7 +34,7 @@ Need a **custom service**? Open a ticket in **#🎫services** and our team will 
 
 To keep Cobalt Studios running and providing tools for developers, we rely on **donations** and **plugin sales**.
 
-[![Ko-fi](https://img.shields.io/badge/Support%20Us%20on-Ko--fi-red?style=for-the-badge&logo=kofi)](https://ko-fi.com/cobaltstudiosdev) [![Cobalt Studios - Codefling](https://img.shields.io/badge/Cobalt_Studios-Codefling-2ea44f?style=for-the-badge&logo=htmx&logoColor=ffffff)](https://codefling.com/cobaltstudios/) 
+[![Ko-fi](https://img.shields.io/badge/Support%20Us%20on-Ko--fi-red?style=for-the-badge&logo=kofi)](https://ko-fi.com/cobaltstudiosdev) [![Cobalt Studios - Codefling](https://img.shields.io/badge/Cobalt_Studios-Codefling-2ea44f?style=for-the-badge&logo=htmx&logoColor=ffffff)](https://codefling.com/cobaltstudios/) [![Join Us On - Discord](https://img.shields.io/badge/Join_Us_On-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/cobaltstudios)
 
 ------
 
